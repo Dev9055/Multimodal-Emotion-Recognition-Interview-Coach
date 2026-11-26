@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="figures/upes_logo.png" alt="UPES Logo" width="210" />
-
 # Real-Time Multimodal Emotion Recognition & AI Interview Coach
 
 **A native Python & Tkinter desktop application combining real-time Facial, Vocal, and Textual AI analytics with multimodal late fusion and automated 2-page visual PDF reporting.**
