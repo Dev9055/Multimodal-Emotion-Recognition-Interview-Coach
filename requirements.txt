@@ -1,0 +1,14 @@
+# Requirements for the Multimodal Emotion Recognition Tkinter Desktop App
+# Install with:  pip install -r requirements.txt
+numpy
+scipy
+opencv-python<5
+pillow
+tensorflow
+h5py
+librosa
+sounddevice
+nltk
+matplotlib
+# Optional (for automatic speech-to-text in Interview Coach):
+# SpeechRecognition

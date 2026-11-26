@@ -1,0 +1,14 @@
+# Requirements for the Tkinter desktop app (app.py)
+# Install with:  pip install -r requirements_tkinter.txt
+numpy
+scipy
+opencv-python<5
+pillow
+tensorflow
+h5py
+librosa
+sounddevice
+nltk
+matplotlib
+# Optional (for automatic speech-to-text in Interview Coach):
+# SpeechRecognition

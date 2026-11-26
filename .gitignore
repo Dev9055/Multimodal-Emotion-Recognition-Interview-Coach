@@ -1,0 +1,25 @@
+# Python & Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS & IDE files
+.DS_Store
+.vscode/
+.agents/
+
+# Temporary runtime files & personal documents
+04-WebApp/Apache_Hadoop_Bullets_Updated.docx
+04-WebApp/tmp/interview_answer.wav
+04-WebApp/tmp/interview_history.json
+04-WebApp/reports/*.pdf
+04-WebApp/reports/*.csv
+
+# Unused large (>50 MB) legacy files not needed by the Tkinter desktop app
+**/face_landmarks.dat
+**/Personality_traits_SVM
+03-Video/Resources/Deep Learning for Computer Vision.pdf
+03-Video/Resources/OpenPose.pages
+00-Presentation/Images/Mon-film-7_1.gif
