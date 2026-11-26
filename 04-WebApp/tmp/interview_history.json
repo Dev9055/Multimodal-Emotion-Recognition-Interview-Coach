@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-11-26 07:00:59",
+    "question": "Tell me about yourself and your technical background.",
+    "score": 48,
+    "top_face": "Sad",
+    "top_voice": "Neutral"
+  },
+  {
+    "timestamp": "2026-11-26 09:26:14",
+    "question": "Tell me about yourself and your technical background.",
+    "score": 38,
+    "top_face": "N/A",
+    "top_voice": "Neutral"
+  },
+  {
+    "timestamp": "2026-11-26 10:36:50",
+    "question": "Tell me about yourself and your technical background.",
+    "score": 63,
+    "top_face": "Neutral",
+    "top_voice": "Neutral"
+  },
+  {
+    "timestamp": "2026-11-26 11:55:04",
+    "question": "Tell me about yourself and your technical background.",
+    "score": 75,
+    "top_face": "N/A",
+    "top_voice": "Neutral"
+  },
+  {
+    "timestamp": "2026-11-26 11:56:13",
+    "question": "Tell me about yourself and your technical background.",
+    "score": 67,
+    "top_face": "Neutral",
+    "top_voice": "Neutral"
+  },
+  {
+    "timestamp": "2026-11-26 12:10:03",
+    "question": "Tell me about yourself and your technical background.",
+    "score": 74,
+    "top_face": "Neutral",
+    "top_voice": "Neutral"
+  }
+]

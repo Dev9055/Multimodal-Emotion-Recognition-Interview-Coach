@@ -191,7 +191,7 @@ Multimodal-Emotion-Recognition-Interview-Coach/
 ├── 01-Audio/                    # RAVDESS audio preprocessing & CNN-LSTM notebooks (.ipynb)
 ├── 02-Text/                     # NLP Big-Five personality training notebooks (.ipynb)
 ├── 03-Video/                    # FER2013 facial expression Xception notebooks (.ipynb)
-├── 00-Presentation/             # Reference presentation visual assets
+├── Models/                      # Shared vision model weights (video.h5, face_landmarks.dat)
 ├── Multimodal_Emotion_Recognition_Project_Report.pdf
 ├── Multimodal_Emotion_Recognition_Presentation.pptx
 ├── requirements.txt
